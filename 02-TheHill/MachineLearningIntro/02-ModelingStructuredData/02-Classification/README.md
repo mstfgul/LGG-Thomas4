@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 ---
 noteId: "e8c86690499f11efb0238d35b5401ab7"
 tags: []
 
 ---
 
+=======
+>>>>>>> refs/remotes/origin/main
 
 # Introduction
 

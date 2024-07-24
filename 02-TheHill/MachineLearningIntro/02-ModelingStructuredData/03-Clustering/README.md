@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 ---
 noteId: "e8d11920499f11efb0238d35b5401ab7"
 tags: []
 
 ---
 
+=======
+>>>>>>> refs/remotes/origin/main
 # Clustering introduction
 
 Hi and welcome to the clustering subsection of the machine learning chapter! You have arrived in the lawless world of [**unsupervised**](https://scikit-learn.org/stable/unsupervised_learning.html) machine learning techniques! In this chapter you will get a brief overview of the different clustering techniques, so you can get down to the nitty gritty details in the challenges yourself.
